@@ -6,7 +6,7 @@ A comprehensive Power BI dashboard analyzing Blinkit's sales performance, custom
 
 ## 📊 Dashboard Snapshot
 
-![Dashboard Snapshot](dashboard_snapshot.png)
+![Dashboard Snapshot](/dashboard_snapshot.PNG)
 
 ---
 
